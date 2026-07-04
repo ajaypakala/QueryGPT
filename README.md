@@ -246,7 +246,7 @@ screenshots/report.png
 
 ---
 
-# Resume Highlights
+# Highlights
 
 This project demonstrates experience in:
 
@@ -273,10 +273,17 @@ https://github.com/ajaypakala
 
 LinkedIn
 
-(Add your LinkedIn URL)
+www.linkedin.com/in/pakala-ajaybabu
 
 ---
 
 # License
 
 This project is released under the MIT License.
+
+---
+
+
+# App link
+
+https://querygpt-ajaypakala.streamlit.app/
