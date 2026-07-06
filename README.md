@@ -213,23 +213,6 @@ Find products with low inventory.
 
 ---
 
-# Screenshots
-
-Add screenshots here after deployment.
-
-Example
-
-```
-screenshots/home.png
-
-screenshots/query.png
-
-screenshots/chart.png
-
-screenshots/report.png
-```
-
----
 
 # Future Enhancements
 
