@@ -1,6 +1,6 @@
-# 🗄️ QueryGPT – Universal AI SQL Database Analyst
+# 🗄️ BridgeSQL – Natural Language Database Assistant
 
-QueryGPT is an AI-powered SQL analytics application that allows users to upload any SQLite database and interact with it using natural language. The application automatically discovers the database schema, generates SQL queries using Google's Gemini AI, executes them, visualizes the results, and provides AI-generated business insights.
+BridgeSQL is an AI-powered SQL analytics application that allows users to upload any SQLite database and interact with it using natural language. The application automatically discovers the database schema, generates SQL queries using Google's Gemini AI, executes them, visualizes the results, and provides AI-generated business insights.
 
 ---
 
